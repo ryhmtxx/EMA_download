@@ -36,7 +36,7 @@ Welcome to **Qulab_EMA**, your tool for tracking daily emotional states and patt
 
 ## 3. Registration
 <details>
-  <summary>Register for <b>Qulab_EMA</b> by providing your email address, creating a password, and completing your profile setup. <b>(Click for more infomation)<b/></summary>
+  <summary>Register for <b>Qulab_EMA</b> by using the email address you got from us, creating a password, and completing your profile setup. <b>Please to make sure the 3 digit number is correct!</b> <b>(Click for more infomation)<b/></summary>
     <div style="display: flex; justify-content: space-between;">
     <img src="https://raw.githubusercontent.com/ryhmtxx/Qulab_EMA/refs/heads/main/iOS_screenshots/register1.png" alt="register1" width="300">
     <img src="https://raw.githubusercontent.com/ryhmtxx/Qulab_EMA/refs/heads/main/iOS_screenshots/register2.png" alt="register2" width="300">
